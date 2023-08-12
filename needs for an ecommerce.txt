@@ -1,0 +1,19 @@
+color pallette
+white blue(#00b4d8) grey and black
+logo figure out
+easy navigation
+faq
+cart and cart design
+page with a proper product showcase and descriptions
+search and filter option
+payment page
+shipping rates
+responsive to mobile
+ratings
+blog posts and articles
+footer navigation
+return policy
+faq for the store
+track order
+push notification prompt
+store information
